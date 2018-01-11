@@ -1,2 +1,2 @@
 # My Personal Resume
-[Click here!](http://codingxiaxw.cn/resume/)
+[Click here!](http://coderlongren.cn/)
